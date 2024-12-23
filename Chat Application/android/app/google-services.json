@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "735835056134",
+    "project_id": "cheatapplication-fdb8e",
+    "storage_bucket": "cheatapplication-fdb8e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:735835056134:android:b0dea41b15c025d834bb87",
+        "android_client_info": {
+          "package_name": "com.example.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrinQTpQ4XAiZRFaB6hdiyDiLQEfIbVNE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
